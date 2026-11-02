@@ -14,6 +14,8 @@ created using HTML, as part of my Web Development Internship.
 - HTML5
 - Visual Studio Code
 - Web Browser
+- CSS3
+- JavaScript
 
 ## Features
 - About Me section
@@ -21,6 +23,21 @@ created using HTML, as part of my Web Development Internship.
 - Contact form
 - Internal navigation
 - Profile image
+
+## CSS Features
+- Basic CSS Reset
+- Background colors and text styling
+- Header and navigation bar styling
+- Hover effects on navigation links
+- Section spacing and alignment
+- Image responsiveness
+- Button styling with hover effects
+- Responsive design using media queries
+
+
+## Design
+The website uses a clean and simple design with a dark blue header, a light background, and blue buttons. CSS media queries help adjust the layout for smaller screens.
+
 
 ## How to Run
 1. Download or clone this repository.
